@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "Dashbord",
+			"path": "."
+		},
+		{
+			"name": "sequencer",
+			"path": "../sequencer"
+		},
+		{
+			"name": "test_capteur",
+			"path": "../../test_capteur"
+		}
+	],
+	"settings": {}
+}
