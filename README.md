@@ -6,7 +6,7 @@ Dronariane is a rocket project developed for the C'Space 2026 campaign. This rep
 
 ### Main onboard computer
 
-The `Dashbord` directory contains the software for the rocket's main onboard computer, based on a Teensy 4.1.
+The `Onboard computer` directory contains the software for the rocket's main onboard computer, based on a Teensy 4.1.
 
 The system is connected to:
 - A microSD card reader for data logging
