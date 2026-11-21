@@ -62,6 +62,6 @@ The `Test code` directory contains programs used to test individual electronic c
 
 The `rocket_orientation` directory contains a Processing simulation that reconstructs and displays the Payload's orientation using measurements from its IMU.
 
-## Flight results
+## Flight outcome
 
-The flight results include graphs, simulations, the flight video, and the flight report submitted to C'Space.
+The flight outcome include graphs, simulations, the flight video, and the flight report submitted to C'Space.
